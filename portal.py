@@ -20,8 +20,43 @@ gvass
 *'yapan yiğithack *'yapan yiğithack
 *'yapan yiğithack  *'yapan yiğithack
  
+ "karakter (bullet,track,999)
+ (bullet,track,999)    (bullet,track,999)
+ (bullet,track,999)  (bullet,track,999)
+                      (bullet,track,999)
+                    (bullet,track,999)
+                    
+ (bullet,track,999)
+(bullet,track,999)
+   (bullet,track,999) 
+                        (bullet,track,999)
+                        
+*"karakter
+(bullet,track,999)
+(bullet,track,999)
+(bullet,track,999)
 
-*"karakter 
+                     (bullet,track,999)
+                    (bullet,track,999)
+                    (bullet,track,999)
+   (bullet,track,999)
+(bullet,track,999)
+(bullet,track,999)
+                     (bullet,track,999)
+                    (bullet,track,999)
+
+("aim,savar")rakip oyuncu
+
+("aim,savar,999")  ("aim,savar,999")
+("aim,savar,999")
+                   ("aim,savar,999")
+                   
+ ("aim,savar,999") 
+ 
+ ("aim,savar,999")
+   ("aim,savar,999")
+   ("aim,savar,999")   ("aim,savar,999")
+ ("aim,savar,999")   ("aim,savar,999")
 "karakter" ("headshot,999")
   "karakter" ("bodyshot,100")
  *()
