@@ -1,6 +1,25 @@
 gvass 
 
-*'yapan yiğithack 
+
+*'yapan yiğithack *'yapan yiğithack
+*'yapan yiğithack *'yapan yiğithack
+*'yapan yiğithack *'yapan yiğithack
+*'yapan yiğithack *'yapan yiğithack
+*'yapan yiğithack *'yapan yiğithack
+*'yapan yiğithack  *'yapan yiğithack
+*'yapan yiğithack *'yapan yiğithack
+*'yapan yiğithack *'yapan yiğithack
+*'yapan yiğithack *'yapan yiğithack
+*'yapan yiğithack *'yapan yiğithack
+*'yapan yiğithack *'yapan yiğithack
+*'yapan yiğithack  *'yapan yiğithack
+*'yapan yiğithack *'yapan yiğithack
+*'yapan yiğithack *'yapan yiğithack
+*'yapan yiğithack *'yapan yiğithack
+*'yapan yiğithack *'yapan yiğithack
+*'yapan yiğithack *'yapan yiğithack
+*'yapan yiğithack  *'yapan yiğithack
+ 
 
 *"karakter 
 "karakter" ("headshot,999")
