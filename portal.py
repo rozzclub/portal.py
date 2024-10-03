@@ -1,5 +1,23 @@
 gvass 
 
+*'yapan yiğithack 
+
+*"karakter 
+"karakter" ("headshot,999")
+  "karakter" ("bodyshot,100")
+ *()
+"karakter" ("headshot,999)
+("headshot,999)    ("headshot,999)
+  ("headshot,999)   ("headshot,999)
+                      ("headshot,999)
+   ("headshot,999)   ("headshot,999)
+                       
+  ("headshot,999)   ("headshot,999)
+("headshot,999)     ("headshot,999)
+   
+*"karakter ("speed,134")
+
+
 item ("awm") 
 
 "wall hack" (5) () ("color yellow")
